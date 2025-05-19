@@ -1,0 +1,133 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Professor Admin",
+      "email": "admin@escola.com",
+      "password": "123456",
+      "role": "teacher",
+      "isAdmin": true,
+      "modifiedAt": "2025-05-17T03:34:59.760Z"
+    },
+    {
+      "id": "2",
+      "name": "Professor João",
+      "email": "joao@escola.com",
+      "password": "123456",
+      "role": "teacher",
+      "isAdmin": false
+    },
+    {
+      "id": "3",
+      "name": "Professora Maria",
+      "email": "maria@escola.com",
+      "password": "123456",
+      "role": "teacher",
+      "isAdmin": false,
+      "modifiedAt": "2025-05-17T03:27:13.410Z"
+    },
+    {
+      "id": "4",
+      "name": "Estudante Pedro",
+      "email": "pedro@escola.com",
+      "password": "123456",
+      "role": "student"
+    },
+    {
+      "id": "5",
+      "name": "Estudante Ana",
+      "email": "ana@escola.com",
+      "password": "123456",
+      "role": "student"
+    },
+    {
+      "id": "6",
+      "name": "Estudante Lucas",
+      "email": "lucas@escola.com",
+      "password": "123456",
+      "role": "student"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post 1",
+      "description": "Descrição do post 1",
+      "author": "Professor João",
+      "createdAt": "2025-03-27",
+      "modifiedAt": "2025-03-27"
+    },
+    {
+      "id": "2",
+      "title": "Post 2",
+      "description": "Descrição do post 2",
+      "author": "Professor João",
+      "createdAt": "2025-03-26",
+      "modifiedAt": "2025-03-27"
+    },
+    {
+      "id": "3",
+      "title": "Post 3",
+      "description": "Descrição do post 3",
+      "author": "Professora Maria",
+      "createdAt": "2025-03-25",
+      "modifiedAt": "2025-03-27"
+    },
+    {
+      "id": "4",
+      "title": "Post 4",
+      "description": "Descrição do post 4",
+      "author": "Professor João",
+      "createdAt": "2025-03-24",
+      "modifiedAt": "2025-03-27"
+    },
+    {
+      "id": "5",
+      "title": "Post 5",
+      "description": "Descrição do post 5",
+      "author": "Professora Maria",
+      "createdAt": "2025-03-23",
+      "modifiedAt": "2025-03-27"
+    },
+    {
+      "id": "6",
+      "title": "Post 6",
+      "description": "Descrição do post 6",
+      "author": "Professor João",
+      "createdAt": "2025-03-22",
+      "modifiedAt": "2025-03-27"
+    },
+    {
+      "id": "7",
+      "title": "Post 7",
+      "description": "Descrição do post 7",
+      "author": "Professora Maria",
+      "createdAt": "2025-03-21",
+      "modifiedAt": "2025-03-27"
+    },
+    {
+      "id": "8",
+      "title": "Post 8",
+      "description": "Descrição do post 8",
+      "author": "Professor João",
+      "createdAt": "2025-03-20",
+      "modifiedAt": "2025-03-27"
+    },
+    {
+      "id": "9",
+      "title": "Post 9",
+      "description": "Descrição do post 9",
+      "author": "Professora Maria",
+      "createdAt": "2025-03-19",
+      "modifiedAt": "2025-03-27"
+    },
+    {
+      "id": "10",
+      "title": "Post 10",
+      "description": "Descrição do post 10",
+      "author": "Professor João",
+      "createdAt": "2025-03-18",
+      "modifiedAt": "2025-03-27"
+    }
+  ]
+}
